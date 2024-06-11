@@ -27,7 +27,7 @@
     background-color: var(--text-white);
 }
 ::-webkit-scrollbar-thumb {
-    background: var(--text-black);
+    background: #0ebdc6;
 }
 html,
 body {
